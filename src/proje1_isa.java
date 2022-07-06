@@ -1,5 +1,7 @@
-public class proje1 {
+public class proje1_isa {
     public static void main(String[] args) {
         System.out.println("Mrb");
+        System.out.println("Ben isa");
+
     }
 }
