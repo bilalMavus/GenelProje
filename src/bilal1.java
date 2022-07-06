@@ -3,5 +3,7 @@ public class bilal1 {
         System.out.println("Merhab ben Bilal");
         System.out.println("Merhab ben Bilal2");
         System.out.println("Merhab ben Bilal3");
+        System.out.println("Merhab ben Bilal4");
+        System.out.println("Merhab ben Bilal5");
     }
 }
