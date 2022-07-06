@@ -4,6 +4,7 @@ public class proje1_isa {
         System.out.println("Ben isa...");
         System.out.println("Sdet1");
         System.out.println("Sdet2");
+        System.out.println("Sdet3");
 
     }
 }
